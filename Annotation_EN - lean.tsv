@@ -1,0 +1,786 @@
+CUI	STR	CNT	SCORE	FLAG	FLAG_NOS			Progress	100.00%
+C0000768	Birth defects	7	1						
+C0000768	Congenital abnormality NOS	7	3		1				
+C0000768	Congenital anomaly	7	3						
+C0000768	Anomaly anomaly congen	7	3	1		Weird wording			
+C0000768	Congenital anomaly, unspecified	7	3						
+C0000768	Developmental disturbance	7	1						
+C0000768	Fetal malformation	7	1						
+									
+C0001175	Acquired immuno deficiency syndrome	7	1						
+C0001175	Acquired immunodeficiency syndrome	7	1						
+C0001175	AIDS	7	1						
+C0001175	Acquired immune deficiency syndr	7	1						
+C0001175	Autoimmune deficiency syndrome	7	1						
+C0001175	Acquired immune deficiency syndrome	7	1						
+C0001175	Acquired immunodeficiency syndrome, unspecified	7	1						
+									
+C0001198	Acrodynia	8	4						
+C0001198	Erythredema polyneuropathy	8	3						
+C0001198	Feer's disease	8	4						
+C0001198	Swift disease	8	4						
+C0001198	Disease pink	8	4						
+C0001198	Bilderbeck's disease	8	4						
+C0001198	Swift-Feer disease	8	4						
+C0001198	Selter's disease	8	4						
+									
+C0001622	Hyperadrenocorticism	11	5						
+C0001622	Adrenal cortex hyperfunction	11	4						
+C0001622	Hypercorticism adrenal	11	5						
+C0001622	Hypercortisonism	11	5						
+C0001622	Hypercortisolism	11	5						
+C0001622	Hypercortisolemia	11	5						
+C0001622	Adrenal cortical hyperfunctions	11	5						
+C0001622	Hyperadrenalism	11	5						
+C0001622	Hypercorticoidism	11	5						
+C0001622	Hyperadrenalcorticalism	11	5						
+C0001622	Hyperadrenocorticalism	11	5						
+									
+C0001973	Alcoholism	7	1						
+C0001973	Alcohol dependence syndrome	7	1						
+C0001973	Alcohol abuse, continuous drinking behaviour	7	1						
+C0001973	Dipsomania	7	4						
+C0001973	Alcohol abuse chronic	7	1						
+C0001973	Alcohol addiction	7	1						
+C0001973	Chronic alcoholism	7	1						
+									
+C0002962	Anginal discomfort	8	3						
+C0002962	Angina	8	4						
+C0002962	Angina pectoris	8	3						
+C0002962	Anginal pain	8	4						
+C0002962	Stenocardia	8	4						
+C0002962	Anginal syndrome	8	4						
+C0002962	Angina syndrome	8	4						
+C0002962	Ischemic chest pain	8	2						
+									
+C0002994	Angio-oedema	7	5						
+C0002994	Angioedema	7	5						
+C0002994	Edema angioneurotic	7	5						
+C0002994	Quincke's edema	7	4						
+C0002994	Giant urticaria	7	4						
+C0002994	Hives giant	7	2						
+C0002994	Angioedema and urticaria	7	4						
+									
+C0003431	Antisocial personality disorder	8	1						
+C0003431	Antisocial personality	8	1						
+C0003431	Psychopathic personality	8	1						
+C0003431	Sociopathic personality	8	1						
+C0003431	Dissocial personality disorder	8	1						
+C0003431	Psychopath	8	2						
+C0003431	Sociopath	8	2						
+C0003431	Asocial personality	8	1						
+									
+C0003862	Painful joints	7	1						
+C0003862	Pain joint	7	1						
+C0003862	Aching joints	7	1						
+C0003862	Pain in joint, site unspecified	7	1						
+C0003862	Arthralgia	7	5						
+C0003862	Arthritic-like pain	7	1						
+C0003862	Discomfort in joints	7	1						
+									
+C0003869	Septic arthritis	8	3						
+C0003869	Pyogenic arthritis	8	4						
+C0003869	Unspecified infective arthritis	8	2						
+C0003869	Purulent arthritis	8	4						
+C0003869	Arthritis infective	8	2						
+C0003869	Pyoarthrosis	8	4						
+C0003869	Unspecified infective arthritis, site unspecified	8	2						
+C0003869	Infectious arthritis	8	2						
+									
+C0005586	Bipolar affective disorder	8	1						
+C0005586	Bipolar disorder	8	1						
+C0005586	Manic depression	8	2						
+C0005586	Psychosis manic-depressive	8	2						
+C0005586	Manic depressive illness	8	2						
+C0005586	Manic depressive	8	2						
+C0005586	Reaction manic-depressive	8	2						
+C0005586	Bipolar affective disorder, unspecified	8	1						
+									
+C0006840	Candida NOS	9	5		1				
+C0006840	Candidiasis	9	5						
+C0006840	Candidiasis of unspecified site	9	5						
+C0006840	Moniliasis	9	5						
+C0006840	Candida infection	9	4						
+C0006840	Moniliasis monilia	9	5						
+C0006840	Monilial infection	9	4						
+C0006840	Monilia NOS	9	5		1	repeated with NOS			
+C0006840	Candidal infection NOS	9	4		1	repeated with NOS			
+									
+C0006846	Cutaneous moniliasis	8	4						
+C0006846	Moniliasis skin	8	4						
+C0006846	Candidiasis of skin NOS	8	4		1				
+C0006846	Candida rash	8	3						
+C0006846	Skin candida NOS	8	4		1				
+C0006846	Monilia of skin NOS	8	4		1				
+C0006846	Monilial rash	8	3						
+C0006846	Thrush of skin NOS	8	3		1				
+									
+C0006849	Oral candidiasis	9	3						
+C0006849	Oral moniliasis	9	3						
+C0006849	Thrush	9	5						
+C0006849	Stomatitis monilial	9	5						
+C0006849	Oral thrush	9	4						
+C0006849	Candida of mouth	9	3						
+C0006849	Oral candida	9	3						
+C0006849	Candida stomatitis	9	5						
+C0006849	Candidiasis of mouth	9	3						
+									
+C0009443	Acute nasopharyngitis (common cold)	8	1	1		This feels like 2 terms			
+C0009443	Cold	8	1						
+C0009443	Common cold	8	1						
+C0009443	Head cold	8	2						
+C0009443	Acute rhinitis	8	2						
+C0009443	Infective rhinitis	8	2						
+C0009443	Acute nasopharyngitis	8	2						
+C0009443	Common cold syndrome	8	1						
+									
+C0011854	Insulin-dependent diabetes mellitus	7	2						
+C0011854	Type 1 diabetes mellitus	7	2						
+C0011854	IDDM	7	4						
+C0011854	Type I diabetes mellitus	7	2	1		Repeated			
+C0011854	Diabetes mellitus juvenile onset	7	3						
+C0011854	Insulin dependent diabetic	7	1						
+C0011854	Juvenile diabetes	7	3						
+									
+C0012241	Gastrointestinal anomaly	8	2						
+C0012241	Gastrointestinal malformation	8	2						
+C0012241	Congenital alimentary tract anomaly NOS	8	4		1				
+C0012241	Congenital alimentary tract malformation NOS	8	4		1				
+C0012241	Anomaly congenital gastrointestinal	8	3						
+C0012241	Gastrointestinal tract anomaly NOS	8	2		1				
+C0012241	Congenital gastrointestinal malformations	8	2						
+C0012241	GI malformation	8	2						
+									
+C0013378	Dysgeusia	8	5						
+C0013378	Taste perversion	8	2						
+C0013378	Taste alteration	8	1						
+C0013378	Parageusia	8	4						
+C0013378	Dysgensia	8	5						
+C0013378	Taste changed	8	1						
+C0013378	Taste disturbance	8	1						
+C0013378	Taste abnormality	8	1						
+									
+C0014518	Toxic epidermal necrolysis	7	4						
+C0014518	Lyell's syndrome	7	4						
+C0014518	Toxic epideoneal necrolysis	7	4						
+C0014518	TEN	7	5						
+C0014518	Lyell's disease	7	4						
+C0014518	Necrolysis epidermal toxic (Lyell type)	7	4						
+C0014518	Lyell	7	4						
+									
+C0015230	Exanthem	8	4						
+C0015230	Exanthema	8	4						
+C0015230	Rash	8	1						
+C0015230	Rash and other nonspecific skin eruption	8	1						
+C0015230	Skin eruption	8	2						
+C0015230	Skin rash	8	1						
+C0015230	Rash (nonspecific)	8	1						
+C0015230	Efflorescence	8	4						
+									
+C0015672	Fatigue	8	1						
+C0015672	Tiredness	8	1						
+C0015672	Fatigue extreme	8	1						
+C0015672	Weariness	8	1						
+C0015672	Loss of energy	8	1						
+C0015672	Energy decreased	8	1						
+C0015672	Feeling of total lack of energy	8	1						
+C0015672	Tired out	8	1						
+									
+C0015934	Fetal growth retardation	7	2						
+C0015934	Intrauterine growth retardation	7	4						
+C0015934	Foetal growth retardation, unspecified {weight}	7	2						
+C0015934	Microsomia	7	5						
+C0015934	Foetal growth retardation, unspecified	7	2	1		typo?			
+C0015934	Fetal growth restriction	7	2						
+C0015934	Intrauterine growth retard	7	4						
+									
+C0016034	Breast dysplasia	7	3						
+C0016034	Diffuse cystic mastopathy	7	3						
+C0016034	Disease fibrocystic breast	7	4						
+C0016034	Fibrocystic breast	7	3						
+C0016034	Breast fibrocystic change	7	3						
+C0016034	Breast cystic fibrosis	7	3						
+C0016034	Breast fibrocystic disorder	7	3						
+									
+C0017181	Gastro intestinal bleed	10	1						
+C0017181	Gastro-intestinal tract bleed	10	1						
+C0017181	Gastrointestinal tract bleed NOS	10	1		1				
+C0017181	Hemorrhage gastrointestinal	10	2						
+C0017181	GI bleed	10	1						
+C0017181	GI hemorrhage	10	1						
+C0017181	Gastrointestinal bleeding	10	1						
+C0017181	GI tract bleed	10	1						
+C0017181	Hemorrhage of digestive tract	10	1						
+C0017181	Haemorrhage of gastrointestinal tract, unspecified	10	1						
+									
+C0017979	Glycosuria	7	4						
+C0017979	Glucosuria	7	4						
+C0017979	Sugar urinary	7	2						
+C0017979	Sugar in urine	7	1						
+C0017979	Sugar urinary present	7	1						
+C0017979	Urine sugar positive	7	1						
+C0017979	Glucose urine present	7	1						
+									
+C0019080	Bleeding	7	1						
+C0019080	Extravasation blood	7	5						
+C0019080	Hemorrhage	7	2						
+C0019080	Blood loss of (NOS)	7	1						
+C0019080	Hemorrhage term	7	2						
+C0019080	Hem	7	5	1		I feel like this is a context dependent abbreviation unlike other terms like AIDS			
+C0019080	Haemorrhage, unspecified	7	2						
+									
+C0019829	Hodgkin's disease, unspecified type	8	5						
+C0019829	Hodgkin's disease	8	5						
+C0019829	Hodgkin's paragranuloma	8	5						
+C0019829	Hodgins	8	5						
+C0019829	Hodgkin's lymphoma	8	4						
+C0019829	Hodgkin's granuloma	8	4						
+C0019829	Lymphomas Hodgkin's disease	8	4						
+C0019829	Lymphogranulomatosis	8	4						
+									
+C0020625	Hyponatremia	7	4						
+C0020625	Sodium blood decreased	7	1						
+C0020625	Sodium depletion	7	1						
+C0020625	Syndrome low salt	7	2						
+C0020625	Low sodium syndrome	7	1						
+C0020625	Na+ depletion	7	2						
+C0020625	Hyponatraemic syndrome	7	4						
+									
+C0020649	Low blood pressure	12	1						
+C0020649	Arterial blood pressure decreased	12	2						
+C0020649	Blood pressure drop arterial	12	2						
+C0020649	Pressure arterial decreased	12	2						
+C0020649	Arterial hypotension	12	3						
+C0020649	Blood pressure decreased	12	1						
+C0020649	Hypotension, unspecified	12	2						
+C0020649	BP fell	12	1						
+C0020649	Drop of blood pressure	12	1						
+C0020649	Fall in blood pressure	12	1						
+C0020649	Hypotension	12	2						
+C0020649	Low BP	12	1						
+									
+C0021141	Inappropriate antidiuretic hormone secretion	9	3						
+C0021141	Syndrome inappropriate ADH	9	4						
+C0021141	Schwartz-Bartter syndrome	9	5						
+C0021141	SIADH	9	5						
+C0021141	Syndrome of inapp ADH secretion	9	3						
+C0021141	Inappropriate ADH secretion	9	3						
+C0021141	ADH inappropriate	9	3						
+C0021141	Inapprop. ADH secretion syndrome	9	3						
+C0021141	Inappropriate vasopressin secretion	9	4						
+									
+C0022408	Arthropathy	8	4						
+C0022408	Unspecified disorder of joint	8	2						
+C0022408	Arthrosis	8	3						
+C0022408	Joint disorder	8	2						
+C0022408	Joint dysfunction	8	2						
+C0022408	Arthropathy, unspecified, site unspecified	8	4						
+C0022408	Unspecified disorder of joint, site unspecified	8	4						
+C0022408	Unspecified arthropathy	8	4						
+									
+C0023470	Leukemia granulocytic	7	3						
+C0023470	Leukemia myeloid	7	3						
+C0023470	Myelocytic leukemia	7	3						
+C0023470	Unspecified myeloid leukaemia	7	3						
+C0023470	Leukemic granulocytic	7	3						
+C0023470	Non-lymphoblastic leukemia NOS	7	4		1				
+C0023470	Leukemia myelogenous	7	3						
+									
+C0023895	Unspecified disorder of liver	8	2						
+C0023895	Hepatic disease	8	3						
+C0023895	Hepatopathy	8	3						
+C0023895	Disease hepatocellular	8	3						
+C0023895	Hepatic disorder NOS	8	3		1				
+C0023895	Fector hepaticus	8	3						
+C0023895	Hepatic pathology	8	3						
+C0023895	Disorder liver	8	2						
+									
+C0024117	Chronic obstructive bronchopneumopathy	9	3						
+C0024117	Chronic obstructive lung disease	9	3						
+C0024117	Chronic obstructive pulmonary disease	9	3						
+C0024117	COPD	9	5						
+C0024117	Hyperactive airway disease	9	2						
+C0024117	Chronic airflow limitation	9	1						
+C0024117	Chronic obstructive airways disease	9	1						
+C0024117	COAD	9	5						
+C0024117	Chronic obstruct airways disease	9	1						
+									
+C0024141	LE syndrome	10	5						
+C0024141	Systemic lupus erythematosis	10	4						
+C0024141	SLE	10	5						
+C0024141	Disseminated lupus erythematosus	10	4						
+C0024141	Syndrome lupus	10	4						
+C0024141	Lupus erythematosis disseminated	10	4						
+C0024141	Syndrome disseminated lupus erythematosis	10	4						
+C0024141	Systemic lupus erythematosus synd	10	4						
+C0024141	Systemic lupus erythematosus	10	4						
+C0024141	LE systemic	10	5						
+									
+C0025323	Hypermenorrhea	9	4						
+C0025323	Menorrhagia	9	4						
+C0025323	Menstrual flow excessive	9	1						
+C0025323	Excessive menstruation	9	1						
+C0025323	Menses regular with excessive bleeding	9	2						
+C0025323	Bleeding menstrual heavy	9	1						
+C0025323	Heavy periods	9	1						
+C0025323	Prolonged heavy periods	9	1						
+C0025323	Menstruation increased	9	1						
+									
+C0026764	Multiple myeloma	7	4						
+C0026764	Myeloma	7	4						
+C0026764	Myelomatosis	7	4						
+C0026764	Multiple myeloma myelomatosis	7	4						
+C0026764	Myelomatosis multiple	7	4						
+C0026764	Plasma cell myeloma	7	3						
+C0026764	Peripheral plasma cell myeloma	7	3						
+									
+C0030353	Optic discs blurred	9	2						
+C0030353	Papilledema	9	4						
+C0030353	Optic papillitis	9	3						
+C0030353	Papilledema, unspecified	9	4						
+C0030353	Papillitis	9	4						
+C0030353	Disc congestion in ocular fundus	9	3						
+C0030353	Disc oedema in ocular fundus	9	3						
+C0030353	Optic disc inflammation	9	2						
+C0030353	Optic disc engorgement	9	2						
+									
+C0030920	GDU	8	5						
+C0030920	Ulcer peptic	8	2						
+C0030920	Peptic ulcer disease	8	2						
+C0030920	Ulcer syndrome peptic	8	2						
+C0030920	Peptic ulcer, site unspecified	8	2						
+C0030920	Peptic ulceration	8	2						
+C0030920	PUD	8	5						
+C0030920	Ulcer gastroduodenal	8	3						
+									
+C0033036	Premature beat atrial	9	3						
+C0033036	Premature atrial contraction	9	3						
+C0033036	Supraventricular premature beats	9	3						
+C0033036	PAC	9	5						
+C0033036	Supraventricular extrasystoles	9	3						
+C0033036	Extrasystoles atrial	9	3						
+C0033036	Ectopic atrial beats	9	3						
+C0033036	Supraventricular ectopics	9	4						
+C0033036	SVE	9	5						
+									
+C0033774	Itching	7	1						
+C0033774	Pruritus	7	4						
+C0033774	Unspecified pruritic disorder	7	4						
+C0033774	Pruritis	7	4						
+C0033774	Pruritus cutaneous	7	4						
+C0033774	Itchy skin	7	1						
+C0033774	Itchy	7	1						
+									
+C0034152	Purpura allergic	8	3						
+C0034152	Schoenlein-Henoch purpura	8	5						
+C0034152	Purpura vascular allergic	8	3						
+C0034152	Anaphylactic vascular purpura	8	3						
+C0034152	Anaphylactoid vascular purpura	8	3						
+C0034152	Henoch Shonlein purpura	8	5						
+C0034152	Henoch-Schonlein	8	5						
+C0034152	Purpura anaphylactoid	8	4						
+									
+C0034935	Babinski sign positive	9	5						
+C0034935	Reflex Babinski positive	9	5						
+C0034935	Reflex plantar extensor	9	4						
+C0034935	Reflex plantar upgoing	9	4						
+C0034935	Sign Babinski present	9	5						
+C0034935	Positive Babinski	9	5						
+C0034935	Positive Babinski response	9	5						
+C0034935	Upgoing plantars	9	4						
+C0034935	Plantar response extensor	9	5						
+									
+C0035222	Acute respiratory distress syndrome	10	1						
+C0035222	Respiratory distress syndrome	10	1						
+C0035222	Adult respiratory distress syndrome	10	2						
+C0035222	Shock lung	10	2						
+C0035222	Adult respiratory stress syndrome	10	2						
+C0035222	ARDS	10	5						
+C0035222	Syndrome adult respiratory	10	2						
+C0035222	Adult respiratory distress syndr	10	2						
+C0035222	Adult RDS	10	4						
+C0035222	A.R.D.S.	10	5						
+									
+C0036974	Acute circulatory failure	12	2						
+C0036974	Shock	12	2						
+C0036974	Collapse cardiovascular	12	1						
+C0036974	Collapse circulatory	12	2						
+C0036974	Failure circulatory	12	2						
+C0036974	Shock circulatory	12	2						
+C0036974	Vascular collapse	12	3						
+C0036974	Shock, unspecified	12	2						
+C0036974	Shock vascular	12	2						
+C0036974	Peripheral circulatory failure	12	2						
+C0036974	Collapse peripheral circulatory	12	2						
+C0036974	Collapse peripheral vascular	12	2						
+									
+C0037036	Hypersalivation	8	1						
+C0037036	Sialorrhea	8	4						
+C0037036	Increased salivation	8	1						
+C0037036	Ptyalism	8	4						
+C0037036	Salivary hypersecretion	8	1						
+C0037036	Saliva increased	8	1						
+C0037036	Saliva secretion excessive	8	1						
+C0037036	Saliva secretion increased	8	1						
+									
+C0039070	Syncope	10	2						
+C0039070	Fainting	10	1						
+C0039070	Faintness	10	1						
+C0039070	Syncope and collapse	10	2						
+C0039070	Collapse transient	10	2						
+C0039070	Falling out	10	3						
+C0039070	Passed out	10	1						
+C0039070	Swooning	10	1						
+C0039070	Collapse fleeting	10	2						
+C0039070	Syncopal attack	10	3						
+									
+C0039231	Heart racing	11	1						
+C0039231	Tachycardia	11	2						
+C0039231	Heart rate increased	11	1						
+C0039231	Pulse rate increased	11	1						
+C0039231	Pulse rapid	11	1						
+C0039231	Tachycardia, unspecified	11	2						
+C0039231	Heartbeats increased	11	1						
+C0039231	Heart rate high	11	1						
+C0039231	Quick pulse	11	1						
+C0039231	Pulse increased	11	1						
+C0039231	High pulse rate	11	1						
+									
+C0040405	CAT	14	4						
+C0040405	CAT scan	14	1						
+C0040405	CT scan	14	1						
+C0040405	Computerized axial tomography	14	3						
+C0040405	EMI scan	14	4						
+C0040405	Computer-assisted transaxial tomography	14	3						
+C0040405	Computerized axial tomogram	14	3						
+C0040405	Computerized transverse axial tomogram	14	3						
+C0040405	Computerized transverse axial tomography	14	3						
+C0040405	Computerised tomogram	14	3						
+C0040405	Computerized tomography	14	3						
+C0040405	CTT	14	3						
+C0040405	CT	14	2						
+C0040405	CTT scan	14	3						
+									
+C0040517	Gilles de la Tourette syndrome	7	3						
+C0040517	Gilles de la Tourette's disorder	7	3						
+C0040517	Tourette's disorder	7	1						
+C0040517	Gilles de la Tourette	7	3						
+C0040517	Brissaud's II	7	5						
+C0040517	Guinon's myospasia impulsiva	7	4						
+C0040517	Tourette syndrome	7	1						
+									
+C0042109	Hives	7	1						
+C0042109	Urticaria, unspecified	7	4						
+C0042109	Urticarial rash	7	3						
+C0042109	Urticaria	7	4						
+C0042109	Urticated rash	7	3						
+C0042109	Urticarial	7	4						
+C0042109	Urtication	7	4						
+									
+C0042344	Venous stasis ulcer	7	3						
+C0042344	Stasis ulcer	7	3						
+C0042344	Venous ulcer NOS	7	3		1				
+C0042344	Varicose ulceration	7	3						
+C0042344	Ulcerated varicose veins	7	1						
+C0042344	Venous ulceration	7	3						
+C0042344	Varicose veins (with ulceration)	7	1						
+									
+C0042571	Vertigo	8	1						
+C0042571	Head revolving round	8	2						
+C0042571	Head spinning	8	1						
+C0042571	Vertigo subjective	8	1						
+C0042571	Rotatory vertigo	8	2						
+C0042571	Head revolving around	8	2						
+C0042571	Spinning sensation	8	1						
+C0042571	Spinning	8	1						
+									
+C0043352	Salivary hyposecretion	9	2						
+C0043352	Asialia	9	4						
+C0043352	Xerostomia	9	4						
+C0043352	Dry mouth	9	1						
+C0043352	Aptyalism	9	4						
+C0043352	Saliva decreased	9	1						
+C0043352	Oral dryness	9	1						
+C0043352	Aptyalia	9	4						
+C0043352	Mouth became dry	9	1						
+									
+C0151480	Antinuclear antibody positive	10	3						
+C0151480	Antinuclear factor positive	10	3						
+C0151480	ANA positive	10	5						
+C0151480	Antinuclear antibody present	10	3						
+C0151480	Antinuclear factor test positive	10	3						
+C0151480	ANA present	10	5						
+C0151480	ANA +ve	10	5						
+C0151480	ANF +ve	10	5						
+C0151480	Positive ANF	10	5						
+C0151480	Antinuclear antibody +ve	10	3						
+									
+C0151517	Atrioventricular block third degree	8	3						
+C0151517	AV block complete	8	5						
+C0151517	Third degree AV block	8	5						
+C0151517	Complete heart block	8	1						
+C0151517	Atrioventricular block, complete	8	2						
+C0151517	Heart block AV complete	8	2						
+C0151517	Heart block AV third degree	8	2						
+C0151517	Heart block third degree	8	2						
+									
+C0151631	Red blood cell sedimentation rate decreased	8	2						
+C0151631	Sedimentation rate decreased	8	4						
+C0151631	Erythrocyte sedimentation rate decreased	8	4						
+C0151631	ESR low	8	5						
+C0151631	ESR decreased	8	5						
+C0151631	Sedimendation rate erythrocytes decreased	8	4						
+C0151631	Erythrocyte sedimentation rate low	8	4						
+C0151631	ESR retarded	8	5						
+									
+C0151662	Gamma-glutamyltransferase incr.	9	5						
+C0151662	Gamma glutamyl transpeptidase increased	9	5						
+C0151662	Gamma-glutamyltransferase increased	9	5						
+C0151662	Gamma-GT increased	9	5						
+C0151662	Gamma GT raised	9	5						
+C0151662	GGTP inc	9	5						
+C0151662	GGTP increase	9	5						
+C0151662	Gamma-glutamyltransferase high	9	5						
+C0151662	GGT increased	9	5						
+									
+C0151674	Gonadotropic follicle stimulating hormone decreased	7	3						
+C0151674	Follicle-stimulating hormone decreased	7	3						
+C0151674	Gonadotropic FSH decreased	7	5						
+C0151674	Follicle stimulating hormone decr	7	3						
+C0151674	FSH decreased	7	5						
+C0151674	Follitropin decreased	7	4						
+C0151674	Follitropin low	7	4						
+									
+C0151679	Gonadotropic follicle stimulating hormone increased	7	3						
+C0151679	Follicle-stimulating hormone increased	7	3						
+C0151679	FSH elevated	7	5						
+C0151679	Gonadotropic FSH increased	7	5						
+C0151679	Follitropin high	7	4						
+C0151679	FSH increased	7	5						
+C0151679	Follitropin increased	7	4						
+									
+C0151680	Gonadotropic luteinizing hormone increased	9	4						
+C0151680	Gonadotropic LH increased	9	5						
+C0151680	Lutotropin high	9	4						
+C0151680	Luteinizing hormone increased	9	4						
+C0151680	Gonadotropic luteinizing hormone inc	9	4						
+C0151680	LH increased	9	5						
+C0151680	Lutotrophin increased	9	4						
+C0151680	Lutotropin increased	9	4						
+C0151680	LH inc	9	5						
+									
+C0151773	Bone marrow depression	7	2						
+C0151773	Bone marrow hypocellular	7	2						
+C0151773	Marrow hypoplasia	7	3						
+C0151773	Hypoplasia bone marrow	7	3						
+C0151773	Marrow depression of	7	3						
+C0151773	Hypocellular marrow	7	3						
+C0151773	Hypoplastic marrow	7	4						
+									
+C0151872	Prothrombin increased	9	4						
+C0151872	PT increased	9	3						
+C0151872	Prothrombin time prolonged	9	4						
+C0151872	Prothrombin time inc	9	4						
+C0151872	Coagulation factor II level increased	9	2						
+C0151872	PT inc	9	3						
+C0151872	Prothrombin level increased	9	4						
+C0151872	PT prolonged	9	3						
+C0151872	Prothrombin time increased	9	4						
+									
+C0151904	GOT inc	12	5						
+C0151904	Serum glutamic-oxaloacetic ta inc	12	3						
+C0151904	Glutamic-oxaloacetic transam incr	12	3						
+C0151904	Transaminase glutamic-oxalacetic increased	12	3						
+C0151904	Serum glutamic-oxaloacetic transaminase increased	12	3						
+C0151904	Glutamic-oxaloacetic transaminase increased	12	3						
+C0151904	Aspartate aminotransferase increased	12	4						
+C0151904	AST increased	12	5						
+C0151904	GOT increased	12	5						
+C0151904	Glutamic-oxaloacetic transam. increased	12	3						
+C0151904	SGOT increased	12	5						
+C0151904	Serum glutamic-oxaloacetic ta increased	12	3						
+									
+C0151905	SGPT increased	11	5						
+C0151905	Serum glutamic-pyruvic ta incr	11	3						
+C0151905	Serum glutamic-pyruvic transaminase increased	11	3						
+C0151905	Transaminase glutamic-pyruvic increased	11	3						
+C0151905	Alanine aminotransferase increased	11	4						
+C0151905	ALT increased	11	5						
+C0151905	Glutamic-pyruvate transaminase increased	11	3						
+C0151905	Glutamic-pyruvic transam incr	11	3						
+C0151905	GPT increased	11	5						
+C0151905	GPT inc	11	5						
+C0151905	Serum glutamic-pyruvic ta increased	11	3						
+									
+C0152198	Abnormality of accommodation	8	3						
+C0152198	Accommodation disorder	8	3						
+C0152198	Accommodation abnormal	8	3						
+C0152198	Accommodation disturbance	8	3						
+C0152198	Accommodation difficulty	8	3						
+C0152198	Visual accommodation disturbance of	8	3						
+C0152198	Pupillary accommodation disorder	8	2						
+C0152198	Accommodation debility	8	4						
+									
+C0154060	Carcinoma in situ of stomach	10	2						
+C0154060	Gastric cancer stage 0	10	1						
+C0154060	Stomach cancer stage 0	10	1						
+C0154060	Stomach carcinoma stage 0	10	2						
+C0154060	Gastric malignancy stage 0	10	2						
+C0154060	Gastric cancer in situ	10	1						
+C0154060	Gastric carcinoma stage 0	10	2						
+C0154060	Gastric carcinoma in situ	10	2						
+C0154060	Gastric malignancy in situ	10	2						
+C0154060	Stomach cancer in situ	10	1						
+									
+C0162830	Photosensitivity reaction	7	1						
+C0162830	Photosensitivity toxic reaction	7	2						
+C0162830	Photosensitive dermatitis	7	1						
+C0162830	Rash photosensitivity	7	1						
+C0162830	Photosensitive rash	7	1						
+C0162830	Photosensitive reaction	7	1						
+C0162830	Photosensitized	7	2						
+									
+C0201899	ASAT	10	5						
+C0201899	Aspartate aminotransferase	10	4						
+C0201899	SGOT	10	5						
+C0201899	GOT	10	5						
+C0201899	AST	10	5						
+C0201899	Asp transferase	10	4						
+C0201899	Aspartate transferase	10	4						
+C0201899	Serum glutamic-oxaloacetic transferase	10	3						
+C0201899	ASPT	10	5						
+C0201899	Glutamic-oxaloacetic transferase	10	3						
+									
+C0231218	Malaise	12	3						
+C0231218	Discomfort bodily	12	1						
+C0231218	Feeling unwell	12	1						
+C0231218	Feels poorly	12	1						
+C0231218	Ill defined experience	12	1						
+C0231218	Feels awful	12	1						
+C0231218	Felt generally ill	12	1						
+C0231218	Generally off-color	12	2						
+C0231218	Feeling lifeless	12	1						
+C0231218	Feeling miserable	12	1						
+C0231218	Generally unwell	12	1						
+C0231218	General malaise	12	2						
+									
+C0235198	Concentration loss	8	1						
+C0235198	Cerebration impaired	8	3						
+C0235198	Mental concentration difficulty	8	1						
+C0235198	Concentration impaired	8	1						
+C0235198	Concentration (mental) abnormal	8	1						
+C0235198	Mental concentration difficult	8	1						
+C0235198	Mental concentration impaired	8	1						
+C0235198	Concentration impairment	8	1						
+									
+C0242362	Intervertebral disc bulging	8	1						
+C0242362	Herniated disk NOS	8	2		1				
+C0242362	Slipped disc	8	1						
+C0242362	Prolapsed disc NOS	8	3		1				
+C0242362	Intervertebral disc herniation	8	2						
+C0242362	Intervertebral disc extrusion	8	1						
+C0242362	Intervertebral disc prolapse	8	2						
+C0242362	Intervertebral disc protrusion	8	1						
+									
+C0271375	IVth nerve disorder	10	4						
+C0271375	Trochlear nerve paralysis	10	3						
+C0271375	Fourth or trochlear nerve palsy	10	4						
+C0271375	Paresis of fourth cranial nerve	10	4						
+C0271375	Fourth nerve paralysis	10	3						
+C0271375	Trochlear nerve disorder	10	4						
+C0271375	IVth nerve paralysis	10	4						
+C0271375	Fourth nerve paresis	10	4						
+C0271375	IVth nerve paresis	10	4						
+C0271375	IVth nerve palsy	10	4						
+									
+C0436480	Computer-assisted transaxial tomography normal	14	3						
+C0436480	Computerized axial tomogram normal	14	3						
+C0436480	Computerized transverse axial tomogram normal	14	3						
+C0436480	Computerized axial tomography normal	14	3						
+C0436480	Computerized transverse axial tomography normal	14	3						
+C0436480	CAT normal	14	1						
+C0436480	Computerised tomogram normal	14	3						
+C0436480	Computerized tomography normal	14	3						
+C0436480	CT normal	14	1						
+C0436480	CT scan normal	14	1						
+C0436480	CTT normal	14	5						
+C0436480	CAT scan normal	14	1						
+C0436480	EMI scan normal	14	5						
+C0436480	CTT scan normal	14	5						
+									
+C0436539	CAT scan abnormal	14	1						
+C0436539	Computer-assisted transaxial tomography abnormal	14	3						
+C0436539	Computerized axial tomogram abnormal	14	3						
+C0436539	Computerized axial tomography abnormal	14	3						
+C0436539	Computerized transverse axial tomography abnormal	14	3						
+C0436539	CAT abnormal	14	1						
+C0436539	Computerised tomogram abnormal	14	3						
+C0436539	Computerized tomography abnormal	14	3						
+C0436539	CT abnormal	14	1						
+C0436539	CT scan abnormal	14	1						
+C0436539	CTT abnormal	14	5						
+C0436539	Computerized transverse axial tomogram abnormal	14	3						
+C0436539	EMI scan abnormal	14	5						
+C0436539	CTT scan abnormal	14	5						
+									
+C0549399	LDL inc	7	1						
+C0549399	Low density lipoprotein increased	7	2						
+C0549399	LDL increased	7	1						
+C0549399	Low density lipoprotein cholesterol high	7	1						
+C0549399	LDL cholesterol increased	7	1						
+C0549399	Raised LDL	7	1						
+C0549399	Low density lipoprotein cholesterol increased	7	1						
+									
+C0851140	Uterine cervix carcinoma stage 0	11	2						
+C0851140	Carcinoma in situ of cervix	11	2						
+C0851140	Carcinoma in situ of cervix uteri	11	2						
+C0851140	Cervical carcinoma in situ	11	2						
+C0851140	Cervix carcinoma stage 0	11	2						
+C0851140	Carcinoma uterine cervix in situ	11	2						
+C0851140	In situ cancer of cervix	11	1						
+C0851140	Cervical cancer stage 0	11	1						
+C0851140	Cervical intraepithelial neoplasia III	11	3						
+C0851140	Cervical carcinoma stage 0	11	2						
+C0851140	CIS of cervix	11	3						
+									
+C1263846	ADHD, predominantly hyperactive-impulsive type	9	1						
+C1263846	Attention deficit hyperactivity disorder	9	1						
+C1263846	Syndrome hyperkinetic	9	2						
+C1263846	Hyperkinetic syndrome of childhood	9	2						
+C1263846	Unspecified hyperkinetic syndrome of childhood	9	2						
+C1263846	Attention deficit disorder of childhood with hyperactivity	9	1						
+C1263846	ADDH	9	2						
+C1263846	Hyperactive child syndrome	9	1						
+C1263846	ADHD	9	1						
+									
+C1384666	Hearing impaired	7	1						
+C1384666	Hearing decreased	7	1						
+C1384666	Unspecified hearing loss	7	1						
+C1384666	Hearing reduced	7	1						
+C1384666	Hard of hearing	7	1						
+C1384666	Hypoacusis	7	4						
+C1384666	Hearing loss	7	1						
+									
+C1510410	Smell alteration	7	1						
+C1510410	Smell change	7	1						
+C1510410	Smell perversion	7	1						
+C1510410	Parosmia	7	4						
+C1510410	Altered smell sensation	7	1						
+C1510410	Perversion olfactory	7	2						
+C1510410	Strange smell sensation	7	1						
+									
+C1535939	Pneumocystis jiroveci pneumonia	7	3						
+C1535939	PCP	7	5						
+C1535939	Pneumocystosis	7	4						
+C1535939	Interstitial plasma cell pneumonia	7	3						
+C1535939	Pneumocystis carinii pneumonia	7	3						
+C1535939	Pneumocystis jirovecii pneumonia	7	3						
+C1535939	Pneumocystis pneumonia	7	3						
+									
+C3714552	Feelings of weakness	7	1						
+C3714552	Weakness	7	1						
+C3714552	Debility	7	3						
+C3714552	Weakness generalised	7	1						
+C3714552	Strength loss of	7	1						
+C3714552	Debility, unspecified	7	3						
+C3714552	General debility	7	1						

@@ -1,0 +1,705 @@
+CUI,LAT,STR,CNT,cadec_feq,cometa_feq,psy-tar_feq
+C0000768,ENG,Birth defects,7,0,0,0
+C0000768,ENG,Congenital abnormality NOS,7,0,0,0
+C0000768,ENG,Congenital anomaly,7,0,0,0
+C0000768,ENG,Anomaly anomaly congen,7,0,0,0
+C0000768,ENG,"Congenital anomaly, unspecified",7,0,0,0
+C0000768,ENG,Developmental disturbance,7,0,0,0
+C0000768,ENG,Fetal malformation,7,0,0,0
+C0001175,ENG,Acquired immuno deficiency syndrome,7,0,0,0
+C0001175,ENG,Acquired immunodeficiency syndrome,7,0,107,0
+C0001175,ENG,AIDS,7,0,81,0
+C0001175,ENG,Acquired immune deficiency syndr,7,0,0,0
+C0001175,ENG,Autoimmune deficiency syndrome,7,0,0,0
+C0001175,ENG,Acquired immune deficiency syndrome,7,0,16,0
+C0001175,ENG,"Acquired immunodeficiency syndrome, unspecified",7,0,0,0
+C0001198,ENG,Acrodynia,8,0,1,0
+C0001198,ENG,Erythredema polyneuropathy,8,0,1,0
+C0001198,ENG,Feer's disease,8,0,0,0
+C0001198,ENG,Swift disease,8,0,3,0
+C0001198,ENG,Disease pink,8,0,0,0
+C0001198,ENG,Bilderbeck's disease,8,0,0,0
+C0001198,ENG,Swift-Feer disease,8,0,0,0
+C0001198,ENG,Selter's disease,8,0,0,0
+C0001622,ENG,Hyperadrenocorticism,11,0,0,0
+C0001622,ENG,Adrenal cortex hyperfunction,11,0,0,0
+C0001622,ENG,Hypercorticism adrenal,11,0,0,0
+C0001622,ENG,Hypercortisonism,11,0,0,0
+C0001622,ENG,Hypercortisolism,11,0,11,0
+C0001622,ENG,Hypercortisolemia,11,0,0,0
+C0001622,ENG,Adrenal cortical hyperfunctions,11,0,0,0
+C0001622,ENG,Hyperadrenalism,11,0,0,0
+C0001622,ENG,Hypercorticoidism,11,0,0,0
+C0001622,ENG,Hyperadrenalcorticalism,11,0,0,0
+C0001622,ENG,Hyperadrenocorticalism,11,0,0,0
+C0001973,ENG,Alcoholism,7,0,14,0
+C0001973,ENG,Alcohol dependence syndrome,7,0,1,0
+C0001973,ENG,"Alcohol abuse, continuous drinking behaviour",7,0,0,0
+C0001973,ENG,Dipsomania,7,0,1,0
+C0001973,ENG,Alcohol abuse chronic,7,0,0,0
+C0001973,ENG,Alcohol addiction,7,0,4,0
+C0001973,ENG,Chronic alcoholism,7,0,2,0
+C0002962,ENG,Anginal discomfort,8,0,0,0
+C0002962,ENG,Angina,8,0,66,0
+C0002962,ENG,Angina pectoris,8,0,6,0
+C0002962,ENG,Anginal pain,8,0,0,0
+C0002962,ENG,Stenocardia,8,0,1,0
+C0002962,ENG,Anginal syndrome,8,0,1,0
+C0002962,ENG,Angina syndrome,8,0,0,0
+C0002962,ENG,Ischemic chest pain,8,0,1,0
+C0002994,ENG,Angio-oedema,7,0,4,0
+C0002994,ENG,Angioedema,7,0,28,0
+C0002994,ENG,Edema angioneurotic,7,0,0,0
+C0002994,ENG,Quincke's edema,7,0,1,0
+C0002994,ENG,Giant urticaria,7,0,1,0
+C0002994,ENG,Hives giant,7,0,0,0
+C0002994,ENG,Angioedema and urticaria,7,0,1,0
+C0003431,ENG,Antisocial personality disorder,8,0,0,0
+C0003431,ENG,Antisocial personality,8,0,0,0
+C0003431,ENG,Psychopathic personality,8,0,1,0
+C0003431,ENG,Sociopathic personality,8,0,1,0
+C0003431,ENG,Dissocial personality disorder,8,0,1,0
+C0003431,ENG,Psychopath,8,0,0,0
+C0003431,ENG,Sociopath,8,0,0,0
+C0003431,ENG,Asocial personality,8,0,1,0
+C0003862,ENG,Painful joints,7,1,0,0
+C0003862,ENG,Pain joint,7,0,0,0
+C0003862,ENG,Aching joints,7,3,0,0
+C0003862,ENG,"Pain in joint, site unspecified",7,0,0,0
+C0003862,ENG,Arthralgia,7,0,12,0
+C0003862,ENG,Arthritic-like pain,7,0,0,0
+C0003862,ENG,Discomfort in joints,7,0,0,0
+C0003869,ENG,Septic arthritis,8,0,4,0
+C0003869,ENG,Pyogenic arthritis,8,0,66,0
+C0003869,ENG,Unspecified infective arthritis,8,0,0,0
+C0003869,ENG,Purulent arthritis,8,0,0,0
+C0003869,ENG,Arthritis infective,8,0,0,0
+C0003869,ENG,Pyoarthrosis,8,0,15,0
+C0003869,ENG,"Unspecified infective arthritis, site unspecified",8,0,0,0
+C0003869,ENG,Infectious arthritis,8,0,0,0
+C0005586,ENG,Bipolar affective disorder,8,0,0,0
+C0005586,ENG,Bipolar disorder,8,0,50,14
+C0005586,ENG,Manic depression,8,0,0,0
+C0005586,ENG,Psychosis manic-depressive,8,0,0,0
+C0005586,ENG,Manic depressive illness,8,0,0,0
+C0005586,ENG,Manic depressive,8,0,0,0
+C0005586,ENG,Reaction manic-depressive,8,0,0,0
+C0005586,ENG,"Bipolar affective disorder, unspecified",8,0,0,0
+C0006840,ENG,Candida NOS,9,0,0,0
+C0006840,ENG,Candidiasis,9,0,12,0
+C0006840,ENG,Candidiasis of unspecified site,9,0,0,0
+C0006840,ENG,Moniliasis,9,0,4,0
+C0006840,ENG,Candida infection,9,0,3,0
+C0006840,ENG,Moniliasis monilia,9,0,0,0
+C0006840,ENG,Monilial infection,9,0,0,0
+C0006840,ENG,Monilia NOS,9,0,0,0
+C0006840,ENG,Candidal infection NOS,9,0,0,0
+C0006846,ENG,Cutaneous moniliasis,8,0,0,0
+C0006846,ENG,Moniliasis skin,8,0,0,0
+C0006846,ENG,Candidiasis of skin NOS,8,0,0,0
+C0006846,ENG,Candida rash,8,0,0,0
+C0006846,ENG,Skin candida NOS,8,0,0,0
+C0006846,ENG,Monilia of skin NOS,8,0,0,0
+C0006846,ENG,Monilial rash,8,0,0,0
+C0006846,ENG,Thrush of skin NOS,8,0,0,0
+C0006849,ENG,Oral candidiasis,9,0,2,0
+C0006849,ENG,Oral moniliasis,9,0,1,0
+C0006849,ENG,Thrush,9,0,46,0
+C0006849,ENG,Stomatitis monilial,9,0,0,0
+C0006849,ENG,Oral thrush,9,0,1,0
+C0006849,ENG,Candida of mouth,9,0,1,0
+C0006849,ENG,Oral candida,9,0,0,0
+C0006849,ENG,Candida stomatitis,9,0,0,0
+C0006849,ENG,Candidiasis of mouth,9,0,4,0
+C0009443,ENG,Acute nasopharyngitis (common cold),8,0,0,0
+C0009443,ENG,Cold,8,26,296,0
+C0009443,ENG,Common cold,8,0,8,0
+C0009443,ENG,Head cold,8,0,1,0
+C0009443,ENG,Acute rhinitis,8,0,0,0
+C0009443,ENG,Infective rhinitis,8,0,0,0
+C0009443,ENG,Acute nasopharyngitis,8,0,0,0
+C0009443,ENG,Common cold syndrome,8,0,0,0
+C0011854,ENG,Insulin-dependent diabetes mellitus,7,0,5,0
+C0011854,ENG,Type 1 diabetes mellitus,7,0,285,0
+C0011854,ENG,IDDM,7,0,0,0
+C0011854,ENG,Type I diabetes mellitus,7,0,74,0
+C0011854,ENG,Diabetes mellitus juvenile onset,7,0,0,0
+C0011854,ENG,Insulin dependent diabetic,7,0,0,0
+C0011854,ENG,Juvenile diabetes,7,0,0,0
+C0012241,ENG,Gastrointestinal anomaly,8,0,0,0
+C0012241,ENG,Gastrointestinal malformation,8,0,0,0
+C0012241,ENG,Congenital alimentary tract anomaly NOS,8,0,0,0
+C0012241,ENG,Congenital alimentary tract malformation NOS,8,0,0,0
+C0012241,ENG,Anomaly congenital gastrointestinal,8,0,0,0
+C0012241,ENG,Gastrointestinal tract anomaly NOS,8,0,0,0
+C0012241,ENG,Congenital gastrointestinal malformations,8,0,0,0
+C0012241,ENG,GI malformation,8,0,0,0
+C0013378,ENG,Dysgeusia,8,0,1,0
+C0013378,ENG,Taste perversion,8,2,0,0
+C0013378,ENG,Taste alteration,8,0,0,0
+C0013378,ENG,Parageusia,8,0,3,0
+C0013378,ENG,Dysgensia,8,0,0,0
+C0013378,ENG,Taste changed,8,0,0,0
+C0013378,ENG,Taste disturbance,8,0,0,0
+C0013378,ENG,Taste abnormality,8,0,0,0
+C0014518,ENG,Toxic epidermal necrolysis,7,0,9,0
+C0014518,ENG,Lyell's syndrome,7,0,1,0
+C0014518,ENG,Toxic epideoneal necrolysis,7,0,0,0
+C0014518,ENG,TEN,7,0,0,0
+C0014518,ENG,Lyell's disease,7,0,0,0
+C0014518,ENG,Necrolysis epidermal toxic (Lyell type),7,0,0,0
+C0014518,ENG,Lyell,7,0,2,0
+C0015230,ENG,Exanthem,8,0,4,0
+C0015230,ENG,Exanthema,8,0,8,0
+C0015230,ENG,Rash,8,16,19,0
+C0015230,ENG,Rash and other nonspecific skin eruption,8,0,0,0
+C0015230,ENG,Skin eruption,8,0,6,0
+C0015230,ENG,Skin rash,8,3,12,0
+C0015230,ENG,Rash (nonspecific),8,0,0,0
+C0015230,ENG,Efflorescence,8,0,0,0
+C0015672,ENG,Fatigue,8,102,12,5
+C0015672,ENG,Tiredness,8,36,0,0
+C0015672,ENG,Fatigue extreme,8,0,0,0
+C0015672,ENG,Weariness,8,2,1,0
+C0015672,ENG,Loss of energy,8,2,0,0
+C0015672,ENG,Energy decreased,8,0,0,0
+C0015672,ENG,Feeling of total lack of energy,8,0,0,0
+C0015672,ENG,Tired out,8,0,0,0
+C0015934,ENG,Fetal growth retardation,7,0,1,0
+C0015934,ENG,Intrauterine growth retardation,7,0,0,0
+C0015934,ENG,"Foetal growth retardation, unspecified {weight}",7,0,0,0
+C0015934,ENG,Microsomia,7,0,4,0
+C0015934,ENG,"Foetal growth retardation, unspecified",7,0,0,0
+C0015934,ENG,Fetal growth restriction,7,0,0,0
+C0015934,ENG,Intrauterine growth retard,7,0,0,0
+C0016034,ENG,Breast dysplasia,7,0,0,0
+C0016034,ENG,Diffuse cystic mastopathy,7,0,1,0
+C0016034,ENG,Disease fibrocystic breast,7,0,0,0
+C0016034,ENG,Fibrocystic breast,7,0,0,0
+C0016034,ENG,Breast fibrocystic change,7,0,0,0
+C0016034,ENG,Breast cystic fibrosis,7,0,0,0
+C0016034,ENG,Breast fibrocystic disorder,7,0,0,0
+C0017181,ENG,Gastro intestinal bleed,10,0,0,0
+C0017181,ENG,Gastro-intestinal tract bleed,10,0,0,0
+C0017181,ENG,Gastrointestinal tract bleed NOS,10,0,0,0
+C0017181,ENG,Hemorrhage gastrointestinal,10,0,0,0
+C0017181,ENG,GI bleed,10,1,0,0
+C0017181,ENG,GI hemorrhage,10,0,219,0
+C0017181,ENG,Gastrointestinal bleeding,10,0,2,0
+C0017181,ENG,GI tract bleed,10,0,0,0
+C0017181,ENG,Hemorrhage of digestive tract,10,0,0,0
+C0017181,ENG,"Haemorrhage of gastrointestinal tract, unspecified",10,0,0,0
+C0017979,ENG,Glycosuria,7,0,3,0
+C0017979,ENG,Glucosuria,7,0,1,0
+C0017979,ENG,Sugar urinary,7,0,0,0
+C0017979,ENG,Sugar in urine,7,0,0,0
+C0017979,ENG,Sugar urinary present,7,0,0,0
+C0017979,ENG,Urine sugar positive,7,0,0,0
+C0017979,ENG,Glucose urine present,7,0,0,0
+C0019080,ENG,Bleeding,7,60,99,0
+C0019080,ENG,Extravasation blood,7,0,0,0
+C0019080,ENG,Hemorrhage,7,0,325,0
+C0019080,ENG,Blood loss of (NOS),7,0,0,0
+C0019080,ENG,Hemorrhage term,7,0,0,0
+C0019080,ENG,Hem,7,0,0,0
+C0019080,ENG,"Haemorrhage, unspecified",7,0,0,0
+C0019829,ENG,"Hodgkin's disease, unspecified type",8,0,0,0
+C0019829,ENG,Hodgkin's disease,8,0,0,0
+C0019829,ENG,Hodgkin's paragranuloma,8,0,0,0
+C0019829,ENG,Hodgins,8,0,0,0
+C0019829,ENG,Hodgkin's lymphoma,8,0,0,0
+C0019829,ENG,Hodgkin's granuloma,8,0,0,0
+C0019829,ENG,Lymphomas Hodgkin's disease,8,0,0,0
+C0019829,ENG,Lymphogranulomatosis,8,0,4,0
+C0020625,ENG,Hyponatremia,7,0,5,0
+C0020625,ENG,Sodium blood decreased,7,0,0,0
+C0020625,ENG,Sodium depletion,7,0,0,0
+C0020625,ENG,Syndrome low salt,7,0,0,0
+C0020625,ENG,Low sodium syndrome,7,0,0,0
+C0020625,ENG,Na+ depletion,7,0,0,0
+C0020625,ENG,Hyponatraemic syndrome,7,0,0,0
+C0020649,ENG,Low blood pressure,12,33,48,0
+C0020649,ENG,Arterial blood pressure decreased,12,0,0,0
+C0020649,ENG,Blood pressure drop arterial,12,0,0,0
+C0020649,ENG,Pressure arterial decreased,12,0,0,0
+C0020649,ENG,Arterial hypotension,12,0,1,0
+C0020649,ENG,Blood pressure decreased,12,0,0,0
+C0020649,ENG,"Hypotension, unspecified",12,0,0,0
+C0020649,ENG,BP fell,12,0,0,0
+C0020649,ENG,Drop of blood pressure,12,0,0,0
+C0020649,ENG,Fall in blood pressure,12,0,0,0
+C0020649,ENG,Hypotension,12,1,5,0
+C0020649,ENG,Low BP,12,2,0,0
+C0021141,ENG,Inappropriate antidiuretic hormone secretion,9,0,0,0
+C0021141,ENG,Syndrome inappropriate ADH,9,0,0,0
+C0021141,ENG,Schwartz-Bartter syndrome,9,0,1,0
+C0021141,ENG,SIADH,9,0,2,0
+C0021141,ENG,Syndrome of inapp ADH secretion,9,0,0,0
+C0021141,ENG,Inappropriate ADH secretion,9,0,0,0
+C0021141,ENG,ADH inappropriate,9,0,9,0
+C0021141,ENG,Inapprop. ADH secretion syndrome,9,0,0,0
+C0021141,ENG,Inappropriate vasopressin secretion,9,0,0,0
+C0022408,ENG,Arthropathy,8,0,134,0
+C0022408,ENG,Unspecified disorder of joint,8,0,0,0
+C0022408,ENG,Arthrosis,8,0,68,0
+C0022408,ENG,Joint disorder,8,0,6,0
+C0022408,ENG,Joint dysfunction,8,0,0,0
+C0022408,ENG,"Arthropathy, unspecified, site unspecified",8,0,0,0
+C0022408,ENG,"Unspecified disorder of joint, site unspecified",8,0,0,0
+C0022408,ENG,Unspecified arthropathy,8,0,0,0
+C0023470,ENG,Leukemia granulocytic,7,0,0,0
+C0023470,ENG,Leukemia myeloid,7,0,0,0
+C0023470,ENG,Myelocytic leukemia,7,0,12,0
+C0023470,ENG,Unspecified myeloid leukaemia,7,0,0,0
+C0023470,ENG,Leukemic granulocytic,7,0,1,0
+C0023470,ENG,Non-lymphoblastic leukemia NOS,7,0,38,0
+C0023470,ENG,Leukemia myelogenous,7,0,0,0
+C0023895,ENG,Unspecified disorder of liver,8,0,0,0
+C0023895,ENG,Hepatic disease,8,0,0,0
+C0023895,ENG,Hepatopathy,8,0,1,0
+C0023895,ENG,Disease hepatocellular,8,0,0,0
+C0023895,ENG,Hepatic disorder NOS,8,0,0,0
+C0023895,ENG,Fector hepaticus,8,0,0,0
+C0023895,ENG,Hepatic pathology,8,0,0,0
+C0023895,ENG,Disorder liver,8,0,0,0
+C0024117,ENG,Chronic obstructive bronchopneumopathy,9,0,0,0
+C0024117,ENG,Chronic obstructive lung disease,9,0,6,0
+C0024117,ENG,Chronic obstructive pulmonary disease,9,0,2,0
+C0024117,ENG,COPD,9,0,4,0
+C0024117,ENG,Hyperactive airway disease,9,0,4,0
+C0024117,ENG,Chronic airflow limitation,9,0,1,0
+C0024117,ENG,Chronic obstructive airways disease,9,0,1,0
+C0024117,ENG,COAD,9,0,4,0
+C0024117,ENG,Chronic obstruct airways disease,9,0,0,0
+C0024141,ENG,LE syndrome,10,0,33,0
+C0024141,ENG,Systemic lupus erythematosis,10,0,0,0
+C0024141,ENG,SLE,10,0,0,0
+C0024141,ENG,Disseminated lupus erythematosus,10,0,1,0
+C0024141,ENG,Syndrome lupus,10,0,0,0
+C0024141,ENG,Lupus erythematosis disseminated,10,0,0,0
+C0024141,ENG,Syndrome disseminated lupus erythematosis,10,0,0,0
+C0024141,ENG,Systemic lupus erythematosus synd,10,0,0,0
+C0024141,ENG,Systemic lupus erythematosus,10,0,6,0
+C0024141,ENG,LE systemic,10,0,0,0
+C0025323,ENG,Hypermenorrhea,9,0,1,0
+C0025323,ENG,Menorrhagia,9,0,2,0
+C0025323,ENG,Menstrual flow excessive,9,0,0,0
+C0025323,ENG,Excessive menstruation,9,0,0,0
+C0025323,ENG,Menses regular with excessive bleeding,9,0,0,0
+C0025323,ENG,Bleeding menstrual heavy,9,0,0,0
+C0025323,ENG,Heavy periods,9,0,2,0
+C0025323,ENG,Prolonged heavy periods,9,0,0,0
+C0025323,ENG,Menstruation increased,9,0,0,0
+C0026764,ENG,Multiple myeloma,7,0,3,0
+C0026764,ENG,Myeloma,7,0,8,0
+C0026764,ENG,Myelomatosis,7,0,1,0
+C0026764,ENG,Multiple myeloma myelomatosis,7,0,0,0
+C0026764,ENG,Myelomatosis multiple,7,0,0,0
+C0026764,ENG,Plasma cell myeloma,7,0,1,0
+C0026764,ENG,Peripheral plasma cell myeloma,7,0,0,0
+C0030353,ENG,Optic discs blurred,9,0,0,0
+C0030353,ENG,Papilledema,9,0,4,0
+C0030353,ENG,Optic papillitis,9,0,1,0
+C0030353,ENG,"Papilledema, unspecified",9,0,0,0
+C0030353,ENG,Papillitis,9,0,1,0
+C0030353,ENG,Disc congestion in ocular fundus,9,0,0,0
+C0030353,ENG,Disc oedema in ocular fundus,9,0,0,0
+C0030353,ENG,Optic disc inflammation,9,0,0,0
+C0030353,ENG,Optic disc engorgement,9,0,0,0
+C0030920,ENG,GDU,8,0,0,0
+C0030920,ENG,Ulcer peptic,8,0,0,0
+C0030920,ENG,Peptic ulcer disease,8,0,0,0
+C0030920,ENG,Ulcer syndrome peptic,8,0,0,0
+C0030920,ENG,"Peptic ulcer, site unspecified",8,0,0,0
+C0030920,ENG,Peptic ulceration,8,0,2,0
+C0030920,ENG,PUD,8,0,0,0
+C0030920,ENG,Ulcer gastroduodenal,8,0,0,0
+C0033036,ENG,Premature beat atrial,9,0,0,0
+C0033036,ENG,Premature atrial contraction,9,0,3,0
+C0033036,ENG,Supraventricular premature beats,9,0,1,0
+C0033036,ENG,PAC,9,0,0,0
+C0033036,ENG,Supraventricular extrasystoles,9,0,0,0
+C0033036,ENG,Extrasystoles atrial,9,0,0,0
+C0033036,ENG,Ectopic atrial beats,9,0,1,0
+C0033036,ENG,Supraventricular ectopics,9,0,1,0
+C0033036,ENG,SVE,9,0,0,0
+C0033774,ENG,Itching,7,34,10,0
+C0033774,ENG,Pruritus,7,3,6,0
+C0033774,ENG,Unspecified pruritic disorder,7,0,0,0
+C0033774,ENG,Pruritis,7,0,3,0
+C0033774,ENG,Pruritus cutaneous,7,0,0,0
+C0033774,ENG,Itchy skin,7,0,0,0
+C0033774,ENG,Itchy,7,7,2,0
+C0034152,ENG,Purpura allergic,8,0,0,0
+C0034152,ENG,Schoenlein-Henoch purpura,8,0,0,0
+C0034152,ENG,Purpura vascular allergic,8,0,0,0
+C0034152,ENG,Anaphylactic vascular purpura,8,0,0,0
+C0034152,ENG,Anaphylactoid vascular purpura,8,0,0,0
+C0034152,ENG,Henoch Shonlein purpura,8,0,0,0
+C0034152,ENG,Henoch-Schonlein,8,0,0,0
+C0034152,ENG,Purpura anaphylactoid,8,0,0,0
+C0034935,ENG,Babinski sign positive,9,0,0,0
+C0034935,ENG,Reflex Babinski positive,9,0,0,0
+C0034935,ENG,Reflex plantar extensor,9,0,0,0
+C0034935,ENG,Reflex plantar upgoing,9,0,0,0
+C0034935,ENG,Sign Babinski present,9,0,0,0
+C0034935,ENG,Positive Babinski,9,0,0,0
+C0034935,ENG,Positive Babinski response,9,0,0,0
+C0034935,ENG,Upgoing plantars,9,0,0,0
+C0034935,ENG,Plantar response extensor,9,0,0,0
+C0035222,ENG,Acute respiratory distress syndrome,10,0,6,0
+C0035222,ENG,Respiratory distress syndrome,10,0,24,0
+C0035222,ENG,Adult respiratory distress syndrome,10,0,0,0
+C0035222,ENG,Shock lung,10,0,1,0
+C0035222,ENG,Adult respiratory stress syndrome,10,0,0,0
+C0035222,ENG,ARDS,10,0,1,0
+C0035222,ENG,Syndrome adult respiratory,10,0,0,0
+C0035222,ENG,Adult respiratory distress syndr,10,0,0,0
+C0035222,ENG,Adult RDS,10,0,0,0
+C0035222,ENG,A.R.D.S.,10,0,0,0
+C0036974,ENG,Acute circulatory failure,12,0,1,0
+C0036974,ENG,Shock,12,2,55,0
+C0036974,ENG,Collapse cardiovascular,12,0,0,0
+C0036974,ENG,Collapse circulatory,12,0,0,0
+C0036974,ENG,Failure circulatory,12,0,0,0
+C0036974,ENG,Shock circulatory,12,0,0,0
+C0036974,ENG,Vascular collapse,12,0,0,0
+C0036974,ENG,"Shock, unspecified",12,0,0,0
+C0036974,ENG,Shock vascular,12,0,0,0
+C0036974,ENG,Peripheral circulatory failure,12,0,1,0
+C0036974,ENG,Collapse peripheral circulatory,12,0,0,0
+C0036974,ENG,Collapse peripheral vascular,12,0,0,0
+C0037036,ENG,Hypersalivation,8,0,1,0
+C0037036,ENG,Sialorrhea,8,0,1,0
+C0037036,ENG,Increased salivation,8,0,0,0
+C0037036,ENG,Ptyalism,8,0,1,0
+C0037036,ENG,Salivary hypersecretion,8,0,3,0
+C0037036,ENG,Saliva increased,8,0,0,0
+C0037036,ENG,Saliva secretion excessive,8,0,0,0
+C0037036,ENG,Saliva secretion increased,8,0,0,0
+C0039070,ENG,Syncope,10,2,11,0
+C0039070,ENG,Fainting,10,6,7,0
+C0039070,ENG,Faintness,10,1,0,0
+C0039070,ENG,Syncope and collapse,10,0,1,0
+C0039070,ENG,Collapse transient,10,0,0,0
+C0039070,ENG,Falling out,10,0,0,0
+C0039070,ENG,Passed out,10,0,0,0
+C0039070,ENG,Swooning,10,0,0,0
+C0039070,ENG,Collapse fleeting,10,0,0,0
+C0039070,ENG,Syncopal attack,10,0,0,0
+C0039231,ENG,Heart racing,11,0,0,0
+C0039231,ENG,Tachycardia,11,4,44,0
+C0039231,ENG,Heart rate increased,11,0,1,0
+C0039231,ENG,Pulse rate increased,11,0,0,0
+C0039231,ENG,Pulse rapid,11,0,0,0
+C0039231,ENG,"Tachycardia, unspecified",11,0,0,0
+C0039231,ENG,Heartbeats increased,11,0,0,0
+C0039231,ENG,Heart rate high,11,0,0,0
+C0039231,ENG,Quick pulse,11,0,0,0
+C0039231,ENG,Pulse increased,11,0,0,0
+C0039231,ENG,High pulse rate,11,0,0,0
+C0040405,ENG,CAT,14,2,149,0
+C0040405,ENG,CAT scan,14,0,6,0
+C0040405,ENG,CT scan,14,1,0,0
+C0040405,ENG,Computerized axial tomography,14,0,42,0
+C0040405,ENG,EMI scan,14,0,0,0
+C0040405,ENG,Computer-assisted transaxial tomography,14,0,0,0
+C0040405,ENG,Computerized axial tomogram,14,0,0,0
+C0040405,ENG,Computerized transverse axial tomogram,14,0,0,0
+C0040405,ENG,Computerized transverse axial tomography,14,0,0,0
+C0040405,ENG,Computerised tomogram,14,0,0,0
+C0040405,ENG,Computerized tomography,14,0,598,0
+C0040405,ENG,CTT,14,0,4,0
+C0040405,ENG,CT,14,0,0,0
+C0040405,ENG,CTT scan,14,0,0,0
+C0040517,ENG,Gilles de la Tourette syndrome,7,0,2,0
+C0040517,ENG,Gilles de la Tourette's disorder,7,0,0,0
+C0040517,ENG,Tourette's disorder,7,0,1,0
+C0040517,ENG,Gilles de la Tourette,7,0,0,0
+C0040517,ENG,Brissaud's II,7,0,0,0
+C0040517,ENG,Guinon's myospasia impulsiva,7,0,0,0
+C0040517,ENG,Tourette syndrome,7,0,1,0
+C0042109,ENG,Hives,7,1,2,0
+C0042109,ENG,"Urticaria, unspecified",7,0,0,0
+C0042109,ENG,Urticarial rash,7,0,1,0
+C0042109,ENG,Urticaria,7,0,90,0
+C0042109,ENG,Urticated rash,7,0,0,0
+C0042109,ENG,Urticarial,7,0,6,0
+C0042109,ENG,Urtication,7,0,0,0
+C0042344,ENG,Venous stasis ulcer,7,0,11,0
+C0042344,ENG,Stasis ulcer,7,0,2,0
+C0042344,ENG,Venous ulcer NOS,7,0,0,0
+C0042344,ENG,Varicose ulceration,7,0,0,0
+C0042344,ENG,Ulcerated varicose veins,7,0,0,0
+C0042344,ENG,Venous ulceration,7,0,0,0
+C0042344,ENG,Varicose veins (with ulceration),7,0,0,0
+C0042571,ENG,Vertigo,8,10,34,0
+C0042571,ENG,Head revolving round,8,0,0,0
+C0042571,ENG,Head spinning,8,0,0,0
+C0042571,ENG,Vertigo subjective,8,0,0,0
+C0042571,ENG,Rotatory vertigo,8,0,0,0
+C0042571,ENG,Head revolving around,8,0,0,0
+C0042571,ENG,Spinning sensation,8,0,1,0
+C0042571,ENG,Spinning,8,1,6,0
+C0043352,ENG,Salivary hyposecretion,9,0,2,0
+C0043352,ENG,Asialia,9,0,1,0
+C0043352,ENG,Xerostomia,9,0,2,0
+C0043352,ENG,Dry mouth,9,7,0,0
+C0043352,ENG,Aptyalism,9,0,1,0
+C0043352,ENG,Saliva decreased,9,0,0,0
+C0043352,ENG,Oral dryness,9,0,0,0
+C0043352,ENG,Aptyalia,9,0,1,0
+C0043352,ENG,Mouth became dry,9,0,0,0
+C0151480,ENG,Antinuclear antibody positive,10,0,0,0
+C0151480,ENG,Antinuclear factor positive,10,0,0,0
+C0151480,ENG,ANA positive,10,0,0,0
+C0151480,ENG,Antinuclear antibody present,10,0,0,0
+C0151480,ENG,Antinuclear factor test positive,10,0,0,0
+C0151480,ENG,ANA present,10,0,0,0
+C0151480,ENG,ANA +ve,10,0,0,0
+C0151480,ENG,ANF +ve,10,0,0,0
+C0151480,ENG,Positive ANF,10,0,0,0
+C0151480,ENG,Antinuclear antibody +ve,10,0,0,0
+C0151517,ENG,Atrioventricular block third degree,8,0,0,0
+C0151517,ENG,AV block complete,8,0,0,0
+C0151517,ENG,Third degree AV block,8,0,0,0
+C0151517,ENG,Complete heart block,8,0,0,0
+C0151517,ENG,"Atrioventricular block, complete",8,0,0,0
+C0151517,ENG,Heart block AV complete,8,0,0,0
+C0151517,ENG,Heart block AV third degree,8,0,0,0
+C0151517,ENG,Heart block third degree,8,0,0,0
+C0151631,ENG,Red blood cell sedimentation rate decreased,8,0,0,0
+C0151631,ENG,Sedimentation rate decreased,8,0,0,0
+C0151631,ENG,Erythrocyte sedimentation rate decreased,8,0,11,0
+C0151631,ENG,ESR low,8,0,1,0
+C0151631,ENG,ESR decreased,8,0,0,0
+C0151631,ENG,Sedimendation rate erythrocytes decreased,8,0,0,0
+C0151631,ENG,Erythrocyte sedimentation rate low,8,0,14,0
+C0151631,ENG,ESR retarded,8,0,0,0
+C0151662,ENG,Gamma-glutamyltransferase incr.,9,0,0,0
+C0151662,ENG,Gamma glutamyl transpeptidase increased,9,0,0,0
+C0151662,ENG,Gamma-glutamyltransferase increased,9,0,0,0
+C0151662,ENG,Gamma-GT increased,9,0,0,0
+C0151662,ENG,Gamma GT raised,9,0,0,0
+C0151662,ENG,GGTP inc,9,0,0,0
+C0151662,ENG,GGTP increase,9,0,0,0
+C0151662,ENG,Gamma-glutamyltransferase high,9,0,3,0
+C0151662,ENG,GGT increased,9,0,0,0
+C0151674,ENG,Gonadotropic follicle stimulating hormone decreased,7,0,0,0
+C0151674,ENG,Follicle-stimulating hormone decreased,7,0,0,0
+C0151674,ENG,Gonadotropic FSH decreased,7,0,0,0
+C0151674,ENG,Follicle stimulating hormone decr,7,0,46,0
+C0151674,ENG,FSH decreased,7,0,0,0
+C0151674,ENG,Follitropin decreased,7,0,0,0
+C0151674,ENG,Follitropin low,7,0,0,0
+C0151679,ENG,Gonadotropic follicle stimulating hormone increased,7,0,0,0
+C0151679,ENG,Follicle-stimulating hormone increased,7,0,0,0
+C0151679,ENG,FSH elevated,7,0,0,0
+C0151679,ENG,Gonadotropic FSH increased,7,0,0,0
+C0151679,ENG,Follitropin high,7,0,0,0
+C0151679,ENG,FSH increased,7,0,0,0
+C0151679,ENG,Follitropin increased,7,0,0,0
+C0151680,ENG,Gonadotropic luteinizing hormone increased,9,0,0,0
+C0151680,ENG,Gonadotropic LH increased,9,0,0,0
+C0151680,ENG,Lutotropin high,9,0,0,0
+C0151680,ENG,Luteinizing hormone increased,9,0,0,0
+C0151680,ENG,Gonadotropic luteinizing hormone inc,9,0,0,0
+C0151680,ENG,LH increased,9,57,59,0
+C0151680,ENG,Lutotrophin increased,9,0,0,0
+C0151680,ENG,Lutotropin increased,9,0,0,0
+C0151680,ENG,LH inc,9,0,0,0
+C0151773,ENG,Bone marrow depression,7,0,1,0
+C0151773,ENG,Bone marrow hypocellular,7,0,0,0
+C0151773,ENG,Marrow hypoplasia,7,0,0,0
+C0151773,ENG,Hypoplasia bone marrow,7,0,0,0
+C0151773,ENG,Marrow depression of,7,0,0,0
+C0151773,ENG,Hypocellular marrow,7,0,0,0
+C0151773,ENG,Hypoplastic marrow,7,0,0,0
+C0151872,ENG,Prothrombin increased,9,0,0,0
+C0151872,ENG,PT increased,9,57,59,0
+C0151872,ENG,Prothrombin time prolonged,9,0,0,0
+C0151872,ENG,Prothrombin time inc,9,0,0,0
+C0151872,ENG,Coagulation factor II level increased,9,0,0,0
+C0151872,ENG,PT inc,9,0,0,0
+C0151872,ENG,Prothrombin level increased,9,0,0,0
+C0151872,ENG,PT prolonged,9,2,852,0
+C0151872,ENG,Prothrombin time increased,9,0,0,0
+C0151904,ENG,GOT inc,12,0,0,0
+C0151904,ENG,Serum glutamic-oxaloacetic ta inc,12,0,0,0
+C0151904,ENG,Glutamic-oxaloacetic transam incr,12,0,0,0
+C0151904,ENG,Transaminase glutamic-oxalacetic increased,12,0,0,0
+C0151904,ENG,Serum glutamic-oxaloacetic transaminase increased,12,0,0,0
+C0151904,ENG,Glutamic-oxaloacetic transaminase increased,12,0,0,0
+C0151904,ENG,Aspartate aminotransferase increased,12,0,5,0
+C0151904,ENG,AST increased,12,0,0,0
+C0151904,ENG,GOT increased,12,0,0,0
+C0151904,ENG,Glutamic-oxaloacetic transam. increased,12,0,0,0
+C0151904,ENG,SGOT increased,12,0,0,0
+C0151904,ENG,Serum glutamic-oxaloacetic ta increased,12,0,0,0
+C0151905,ENG,SGPT increased,11,0,0,0
+C0151905,ENG,Serum glutamic-pyruvic ta incr,11,0,0,0
+C0151905,ENG,Serum glutamic-pyruvic transaminase increased,11,0,0,0
+C0151905,ENG,Transaminase glutamic-pyruvic increased,11,0,0,0
+C0151905,ENG,Alanine aminotransferase increased,11,0,0,0
+C0151905,ENG,ALT increased,11,0,0,0
+C0151905,ENG,Glutamic-pyruvate transaminase increased,11,0,0,0
+C0151905,ENG,Glutamic-pyruvic transam incr,11,0,0,0
+C0151905,ENG,GPT increased,11,0,0,0
+C0151905,ENG,GPT inc,11,0,0,0
+C0151905,ENG,Serum glutamic-pyruvic ta increased,11,0,0,0
+C0152198,ENG,Abnormality of accommodation,8,0,0,0
+C0152198,ENG,Accommodation disorder,8,0,0,0
+C0152198,ENG,Accommodation abnormal,8,0,0,0
+C0152198,ENG,Accommodation disturbance,8,0,0,0
+C0152198,ENG,Accommodation difficulty,8,0,0,0
+C0152198,ENG,Visual accommodation disturbance of,8,0,0,0
+C0152198,ENG,Pupillary accommodation disorder,8,0,0,0
+C0152198,ENG,Accommodation debility,8,0,0,0
+C0154060,ENG,Carcinoma in situ of stomach,10,0,0,0
+C0154060,ENG,Gastric cancer stage 0,10,0,0,0
+C0154060,ENG,Stomach cancer stage 0,10,0,0,0
+C0154060,ENG,Stomach carcinoma stage 0,10,0,0,0
+C0154060,ENG,Gastric malignancy stage 0,10,0,0,0
+C0154060,ENG,Gastric cancer in situ,10,0,0,0
+C0154060,ENG,Gastric carcinoma stage 0,10,0,0,0
+C0154060,ENG,Gastric carcinoma in situ,10,0,0,0
+C0154060,ENG,Gastric malignancy in situ,10,0,0,0
+C0154060,ENG,Stomach cancer in situ,10,0,0,0
+C0162830,ENG,Photosensitivity reaction,7,0,0,0
+C0162830,ENG,Photosensitivity toxic reaction,7,0,0,0
+C0162830,ENG,Photosensitive dermatitis,7,0,2,0
+C0162830,ENG,Rash photosensitivity,7,1,2,0
+C0162830,ENG,Photosensitive rash,7,0,0,0
+C0162830,ENG,Photosensitive reaction,7,0,0,0
+C0162830,ENG,Photosensitized,7,0,0,0
+C0201899,ENG,ASAT,10,0,0,0
+C0201899,ENG,Aspartate aminotransferase,10,0,8,0
+C0201899,ENG,SGOT,10,0,0,0
+C0201899,ENG,GOT,10,0,0,0
+C0201899,ENG,AST,10,0,0,0
+C0201899,ENG,Asp transferase,10,0,0,0
+C0201899,ENG,Aspartate transferase,10,0,0,0
+C0201899,ENG,Serum glutamic-oxaloacetic transferase,10,0,0,0
+C0201899,ENG,ASPT,10,0,0,0
+C0201899,ENG,Glutamic-oxaloacetic transferase,10,0,0,0
+C0231218,ENG,Malaise,12,9,4,1
+C0231218,ENG,Discomfort bodily,12,0,0,0
+C0231218,ENG,Feeling unwell,12,1,0,0
+C0231218,ENG,Feels poorly,12,0,1,0
+C0231218,ENG,Ill defined experience,12,0,0,0
+C0231218,ENG,Feels awful,12,0,0,0
+C0231218,ENG,Felt generally ill,12,1,0,0
+C0231218,ENG,Generally off-color,12,0,0,0
+C0231218,ENG,Feeling lifeless,12,0,0,0
+C0231218,ENG,Feeling miserable,12,0,0,4
+C0231218,ENG,Generally unwell,12,0,1,0
+C0231218,ENG,General malaise,12,4,0,0
+C0235198,ENG,Concentration loss,8,0,0,0
+C0235198,ENG,Cerebration impaired,8,0,0,0
+C0235198,ENG,Mental concentration difficulty,8,0,0,0
+C0235198,ENG,Concentration impaired,8,0,1,0
+C0235198,ENG,Concentration (mental) abnormal,8,0,0,0
+C0235198,ENG,Mental concentration difficult,8,0,0,0
+C0235198,ENG,Mental concentration impaired,8,0,0,0
+C0235198,ENG,Concentration impairment,8,0,2,0
+C0242362,ENG,Intervertebral disc bulging,8,0,0,0
+C0242362,ENG,Herniated disk NOS,8,0,0,0
+C0242362,ENG,Slipped disc,8,0,1,0
+C0242362,ENG,Prolapsed disc NOS,8,0,0,0
+C0242362,ENG,Intervertebral disc herniation,8,0,0,0
+C0242362,ENG,Intervertebral disc extrusion,8,0,1,0
+C0242362,ENG,Intervertebral disc prolapse,8,0,1,0
+C0242362,ENG,Intervertebral disc protrusion,8,0,3,0
+C0271375,ENG,IVth nerve disorder,10,0,0,0
+C0271375,ENG,Trochlear nerve paralysis,10,0,1,0
+C0271375,ENG,Fourth or trochlear nerve palsy,10,0,0,0
+C0271375,ENG,Paresis of fourth cranial nerve,10,0,0,0
+C0271375,ENG,Fourth nerve paralysis,10,0,0,0
+C0271375,ENG,Trochlear nerve disorder,10,0,0,0
+C0271375,ENG,IVth nerve paralysis,10,0,3,0
+C0271375,ENG,Fourth nerve paresis,10,0,0,0
+C0271375,ENG,IVth nerve paresis,10,0,0,0
+C0271375,ENG,IVth nerve palsy,10,0,0,0
+C0436480,ENG,Computer-assisted transaxial tomography normal,14,0,0,0
+C0436480,ENG,Computerized axial tomogram normal,14,0,0,0
+C0436480,ENG,Computerized transverse axial tomogram normal,14,0,0,0
+C0436480,ENG,Computerized axial tomography normal,14,0,20,0
+C0436480,ENG,Computerized transverse axial tomography normal,14,0,0,0
+C0436480,ENG,CAT normal,14,0,0,0
+C0436480,ENG,Computerised tomogram normal,14,0,0,0
+C0436480,ENG,Computerized tomography normal,14,0,16,0
+C0436480,ENG,CT normal,14,0,0,0
+C0436480,ENG,CT scan normal,14,0,0,0
+C0436480,ENG,CTT normal,14,0,0,0
+C0436480,ENG,CAT scan normal,14,0,0,0
+C0436480,ENG,EMI scan normal,14,0,0,0
+C0436480,ENG,CTT scan normal,14,0,0,0
+C0436539,ENG,CAT scan abnormal,14,0,0,0
+C0436539,ENG,Computer-assisted transaxial tomography abnormal,14,0,0,0
+C0436539,ENG,Computerized axial tomogram abnormal,14,0,0,0
+C0436539,ENG,Computerized axial tomography abnormal,14,0,20,0
+C0436539,ENG,Computerized transverse axial tomography abnormal,14,0,0,0
+C0436539,ENG,CAT abnormal,14,0,0,0
+C0436539,ENG,Computerised tomogram abnormal,14,0,0,0
+C0436539,ENG,Computerized tomography abnormal,14,0,16,0
+C0436539,ENG,CT abnormal,14,0,0,0
+C0436539,ENG,CT scan abnormal,14,0,0,0
+C0436539,ENG,CTT abnormal,14,0,0,0
+C0436539,ENG,Computerized transverse axial tomogram abnormal,14,0,0,0
+C0436539,ENG,EMI scan abnormal,14,0,0,0
+C0436539,ENG,CTT scan abnormal,14,0,0,0
+C0549399,ENG,LDL inc,7,0,0,0
+C0549399,ENG,Low density lipoprotein increased,7,0,0,0
+C0549399,ENG,LDL increased,7,1,0,0
+C0549399,ENG,Low density lipoprotein cholesterol high,7,0,20,0
+C0549399,ENG,LDL cholesterol increased,7,0,0,0
+C0549399,ENG,Raised LDL,7,0,0,0
+C0549399,ENG,Low density lipoprotein cholesterol increased,7,0,8,0
+C0851140,ENG,Uterine cervix carcinoma stage 0,11,0,0,0
+C0851140,ENG,Carcinoma in situ of cervix,11,0,0,0
+C0851140,ENG,Carcinoma in situ of cervix uteri,11,0,0,0
+C0851140,ENG,Cervical carcinoma in situ,11,0,0,0
+C0851140,ENG,Cervix carcinoma stage 0,11,0,0,0
+C0851140,ENG,Carcinoma uterine cervix in situ,11,0,0,0
+C0851140,ENG,In situ cancer of cervix,11,0,0,0
+C0851140,ENG,Cervical cancer stage 0,11,0,0,0
+C0851140,ENG,Cervical intraepithelial neoplasia III,11,0,0,0
+C0851140,ENG,Cervical carcinoma stage 0,11,0,0,0
+C0851140,ENG,CIS of cervix,11,0,0,0
+C1263846,ENG,"ADHD, predominantly hyperactive-impulsive type",9,0,0,0
+C1263846,ENG,Attention deficit hyperactivity disorder,9,0,3,0
+C1263846,ENG,Syndrome hyperkinetic,9,0,0,0
+C1263846,ENG,Hyperkinetic syndrome of childhood,9,0,0,0
+C1263846,ENG,Unspecified hyperkinetic syndrome of childhood,9,0,0,0
+C1263846,ENG,Attention deficit disorder of childhood with hyperactivity,9,0,1,0
+C1263846,ENG,ADDH,9,0,0,0
+C1263846,ENG,Hyperactive child syndrome,9,0,0,0
+C1263846,ENG,ADHD,9,0,0,0
+C1384666,ENG,Hearing impaired,7,0,13,0
+C1384666,ENG,Hearing decreased,7,0,0,0
+C1384666,ENG,Unspecified hearing loss,7,0,0,0
+C1384666,ENG,Hearing reduced,7,0,0,0
+C1384666,ENG,Hard of hearing,7,0,0,0
+C1384666,ENG,Hypoacusis,7,0,5,0
+C1384666,ENG,Hearing loss,7,0,474,0
+C1510410,ENG,Smell alteration,7,0,0,0
+C1510410,ENG,Smell change,7,0,3,0
+C1510410,ENG,Smell perversion,7,0,0,0
+C1510410,ENG,Parosmia,7,0,2,0
+C1510410,ENG,Altered smell sensation,7,0,0,0
+C1510410,ENG,Perversion olfactory,7,0,0,0
+C1510410,ENG,Strange smell sensation,7,0,0,0
+C1535939,ENG,Pneumocystis jiroveci pneumonia,7,0,0,0
+C1535939,ENG,PCP,7,2,8,0
+C1535939,ENG,Pneumocystosis,7,0,4,0
+C1535939,ENG,Interstitial plasma cell pneumonia,7,0,0,0
+C1535939,ENG,Pneumocystis carinii pneumonia,7,0,0,0
+C1535939,ENG,Pneumocystis jirovecii pneumonia,7,0,0,0
+C1535939,ENG,Pneumocystis pneumonia,7,0,0,0
+C3714552,ENG,Feelings of weakness,7,0,0,0
+C3714552,ENG,Weakness,7,98,50,0
+C3714552,ENG,Debility,7,0,2,0
+C3714552,ENG,Weakness generalised,7,0,0,0
+C3714552,ENG,Strength loss of,7,0,0,0
+C3714552,ENG,"Debility, unspecified",7,0,0,0
+C3714552,ENG,General debility,7,0,0,0
